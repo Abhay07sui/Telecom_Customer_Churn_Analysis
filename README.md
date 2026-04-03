@@ -53,7 +53,7 @@ telecom-churn-analysis/
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard](telecom churn dashboard.png)
+![Dashboard](churn_dashboard.png)
 
 ---
 ## 📊 Dashboard Insights
