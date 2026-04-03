@@ -51,7 +51,11 @@ telecom-churn-analysis/
 * Customer segmentation
 
 ---
+## 📊 Dashboard Preview
 
+![Dashboard](telecom churn dashboard.png)
+
+---
 ## 📊 Dashboard Insights
 
 * Churn by contract type
